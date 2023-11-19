@@ -1,4 +1,4 @@
-# roblox-extnsion-beam
+# universal-extension-beamer
 #### Heya guys, s1csty9 here. Beaming ROBLOX accounts has always been one of my favourite pasttimes, and I forked this from an extension I used to do it a while back.
 
 #### DISCLAIMER: This extension is for educational purposes only as you will see in my explanantion, and I do not condone the usage of this on anyone without their knowledge and authorisation.
